@@ -9,6 +9,11 @@ body {
   max-width: 800px;
 }
 
+.hero {
+  background-color: #f9f9fe;
+  text-align: center;
+}
+
 h1,
 h2,
 h3 {
