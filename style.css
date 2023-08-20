@@ -64,7 +64,7 @@ p {
   text-transform: capitalize;
 }
 
-.contact-link {
+.work-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
