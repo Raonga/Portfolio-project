@@ -21,7 +21,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   text-align: center;
   margin: 0;
 }
@@ -90,15 +91,14 @@ p {
   margin: 10px;
 }
 
-.email-link {
+.contact {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
-  text-decoration: none;
+  font-size: 20px;
 }
 
-.email-link:hover {
+.contact:hover {
   text-decoration: underline;
 }
 
