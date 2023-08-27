@@ -12,6 +12,7 @@ body {
 .hero {
   background-color: #edb1f1;
   text-align: center;
+  padding: 80px 20px;
 }
 
 .hero h3 {
@@ -30,6 +31,7 @@ h4 {
 h1 {
   font-size: 96px;
   font-family: "Playfair Display", serif;
+  padding: 40px 10px;
 }
 
 h2 {
