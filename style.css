@@ -51,6 +51,10 @@ p {
   text-align: center;
 }
 
+footer {
+  margin: 50px 0;
+}
+
 footer .email-link {
   text-decoration: none;
   color: black;
@@ -58,8 +62,22 @@ footer .email-link {
   text-align: center;
 }
 
-footer .email-link:hoover {
+footer .email-link:hover {
   color: var(--primary-color);
+}
+
+footer .social-links a {
+  margin: 0 20px;
+  font-size: 18px;
+  background-color: #edb1f1;
+  padding: 10px 14px;
+  border-radius: 50%;
+  transition: all 100ms ease-in-out;
+}
+
+footer .social-links a:hover {
+  color: #f5f2fe;
+  background-color: #6c63ff;
 }
 
 .navigation-links {
