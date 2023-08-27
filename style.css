@@ -51,6 +51,17 @@ p {
   text-align: center;
 }
 
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+footer .email-link:hoover {
+  color: var(--primary-color);
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
